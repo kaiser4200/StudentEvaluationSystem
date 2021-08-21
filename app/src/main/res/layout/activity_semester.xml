@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Semester"
+    android:orientation="vertical"
+    android:background="@drawable/background">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+
+        <Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/firstsemesterbuttonId"
+            android:text="first"
+            android:textColor="#FFFFFF"
+            android:textSize="25sp"
+            android:layout_width="180dp"
+            android:layout_height="60dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            />
+        <Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/secondsemesterbuttonId"
+            android:text="second"
+            android:textColor="#FFFFFF"
+            android:textSize="25sp"
+            android:layout_width="180dp"
+            android:layout_height="60dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            />
+        <Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/thirdsemesterbuttonId"
+            android:text="third"
+            android:textColor="#FFFFFF"
+            android:textSize="25sp"
+            android:layout_width="180dp"
+            android:layout_height="60dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            />
+        <Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/forthsemesterbuttonId"
+            android:text="forth"
+            android:textColor="#FFFFFF"
+            android:textSize="25sp"
+            android:layout_width="180dp"
+            android:layout_height="60dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            />
+        <Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/fifthsemesterbuttonId"
+            android:text="fifth"
+            android:textColor="#FFFFFF"
+            android:textSize="25sp"
+            android:layout_width="180dp"
+            android:layout_height="60dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            />
+
+        <Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/sixthsemesterbuttonId"
+            android:text="sixth"
+            android:textColor="#FFFFFF"
+            android:textSize="25sp"
+            android:layout_width="180dp"
+            android:layout_height="60dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            />
+        <Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/seventhsemesterbuttonId"
+            android:text="seventh"
+            android:textColor="#FFFFFF"
+            android:textSize="25sp"
+            android:layout_width="180dp"
+            android:layout_height="60dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            />
+        <Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/eighthsemesterbuttonId"
+            android:text="eighth"
+            android:textColor="#FFFFFF"
+            android:textSize="25sp"
+            android:layout_width="180dp"
+            android:layout_height="60dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            />
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

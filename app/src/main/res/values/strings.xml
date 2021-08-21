@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Student Evaluation System</string>
+    <string name="semester">Semester</string>
+    <string name="subject">Subject</string>
+
+    <string-array name="Semester">
+
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+        <item>Forth</item>
+        <item>Fifth</item>
+        <item>Sixth</item>
+        <item>Seven</item>
+        <item>Eight</item>
+    </string-array>
+
+    <string-array name="First">
+
+        <item>Computer Programming in C</item>
+        <item>Physics 1</item>
+        <item>Mathmatics 1</item>
+        <item>Accounting</item>
+        <!--        <item>Fifth</item>-->
+        <!--        <item>Sixth</item>-->
+        <!--        <item>Seven</item>-->
+        <!--        <item>Eight</item>-->
+    </string-array>
+    <string-array name="Second">
+
+        <item>Computer Programming in C++</item>
+        <item>Physics 2</item>
+        <item>Mathmatics 2</item>
+        <item>Forth</item>
+        <!--        <item>Fifth</item>-->
+        <!--        <item>Sixth</item>-->
+        <!--        <item>Seven</item>-->
+        <!--        <item>Eight</item>-->
+    </string-array>
+    <string-array name="Third">
+
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+        <item>Forth</item>
+        <item>Fifth</item>
+        <item>Sixth</item>
+        <item>Seven</item>
+        <item>Eight</item>
+    </string-array>
+    <string-array name="Forth">
+
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+        <item>Forth</item>
+        <item>Fifth</item>
+        <item>Sixth</item>
+        <item>Seven</item>
+        <item>Eight</item>
+    </string-array>
+    <string-array name="Fifth">
+
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+        <item>Forth</item>
+        <item>Fifth</item>
+        <item>Sixth</item>
+        <item>Seven</item>
+        <item>Eight</item>
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "433977145262",
+    "firebase_url": "https://studentevaluationsystem-aaebd.firebaseio.com",
+    "project_id": "studentevaluationsystem-aaebd",
+    "storage_bucket": "studentevaluationsystem-aaebd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433977145262:android:f6c244ee76ba17fb",
+        "android_client_info": {
+          "package_name": "com.example.studentevaluationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433977145262-sii65m7mvv597geg2sshnfhf50an5gqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studentevaluationsystem",
+            "certificate_hash": "f17091a56ee72d0ae08d696cd4b2aeaa286fe641"
+          }
+        },
+        {
+          "client_id": "433977145262-5t9aeo1qkmod67ij42sfqpjcnd2k1f1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxCteX2aFTvyZNlWCLyFpxpX_rbGf-qHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433977145262-5t9aeo1qkmod67ij42sfqpjcnd2k1f1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
